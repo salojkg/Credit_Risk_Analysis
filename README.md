@@ -47,7 +47,7 @@ Balanced Accuracy Score 89%
 
 <img width="510" alt="Easy Ensemble AdaBoost Classifier" src="https://user-images.githubusercontent.com/90934630/151718612-f550c14f-5464-4acd-8a0a-611fcc54dd06.png">
 
-**Balanced Accuracy Score 94%
+**Balanced Accuracy Score 94%**
 
 ## Summary
 
